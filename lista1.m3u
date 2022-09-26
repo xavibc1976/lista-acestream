@@ -1,0 +1,7 @@
+#EXTM3U
+
+EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="#0", #0
+Acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Varios" tvg-id="La Liga - 1080", La Liga - 1080
+Acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
