@@ -10,10 +10,10 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="La Liga - 1080", La Liga - 1080
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="La Liga - 720", La Liga - 720
-Acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+Acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm1.png" group-title="La Liga" tvg-id="La Liga 1 - 1080", La Liga 1 - 1080
 Acestream://4229d640fecf3c0897674241bcf851b67f4310e3
@@ -22,10 +22,10 @@ Acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 Acestream://
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="La Liga 2 - 1080", La Liga 2 - 1080
-Acestream://
+Acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="La Liga 2 - 720", La Liga 2 - 720
-Acestream://
+Acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" group-title="La Liga" tvg-id="La Liga 3 - 720", La Liga 3 - 720
 Acestream:/
