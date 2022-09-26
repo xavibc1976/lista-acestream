@@ -234,4 +234,5 @@ Acestream://
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="#0", #0
 Acestream://
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Varios" tvg-id="Mega", Mega
 
