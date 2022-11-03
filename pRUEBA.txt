@@ -1,0 +1,228 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Television" tvg-id="LA 1 HD", 0001 La1 
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1137
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="Television" tvg-id="La 2 HD", 0002 La2
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1138
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" group-title="Television" tvg-id="ANTENA 3 HD", 0003 ANTENA 3
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1145
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cuatro.png" group-title="Television" tvg-id="CUATRO HD", 0004 Cuatro
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1146
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/t5.png" group-title="Television" tvg-id="TELECINCO HD", 0005 Telecinco
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1147
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sexta.png" group-title="Television" tvg-id="LA SEXTA HD",  La Sexta
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1148
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvam.png" group-title="Television" tvg-id="",  Telemadrid HD
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/252719
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Canal Sur
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Canal Sur(2)
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Onda Cadiz TV
+https://adc-hls.flumotion.com/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", TV3
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", TV3(2)
+https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Canal33
+https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Canal33(2)
+https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Super3
+https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Super3(2)
+https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", TVG
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", TVG 2
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Television" tvg-id="Mega HD",  Mega
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1156
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fdft5.png" group-title="Television" tvg-id="FDF",  FDF 
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1150
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bemad.png" group-title="Television" tvg-id="BE MAD",  Be Mad
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/277706
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/energy.png" group-title="Television" tvg-id="ENERGY",  Energy
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1151
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/neox.png" group-title="Television" tvg-id="NEOX",  Neox
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1154
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png" group-title="Television" tvg-id="Atreseries HD",  A3 Series
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1157
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png" group-title="Television" tvg-id="DKISS",  Dkiss
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1158
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="Television" tvg-id="ESTRENOS HD",  Movistar Estrenos
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1164
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="M+ ESTRENOS 2", Movistar Series 2
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1186
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="Television" tvg-id="M+ ACCION HD",  Movistar Accion
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1166
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="Television" tvg-id="M+COMEDIA HD",  Movistar Comedia
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1167
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mcn.png" group-title="Television" tvg-id="M+ Cine Español",  Movistar Cine Ñ
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1171
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="Television" tvg-id="M+ SERIES HD",  Movistar Series
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1185
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="M+ ESTRENOS 2", Movistar Series 2
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1186
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="Television" tvg-id="FOX HD",  FOX
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1182
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="Television" tvg-id="CALLE 13 HD",  Calle 13
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1179
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holly.png" group-title="Television" tvg-id="HOLLYWOOD HD",  Hollywood
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1175
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" group-title="Television" tvg-id="COMEDYCENTRAL HD",  Comedy Central
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1163
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcsp.png" group-title="Television" tvg-id="AMC HD",  AMC
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1177
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amccrime.png" group-title="Television" tvg-id="AMC CRIME",  AMC Crime
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1193
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tcm.png" group-title="Television" tvg-id="TCM HD",  TCM
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1178
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="Television" tvg-id="AXN HD",  AXN
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1180
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="Television" tvg-id="AXN WHITE HD",  AXN White
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1181
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="Television" tvg-id="HISTORIA",  Historia
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1194
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="Television" tvg-id="NAT GEO HD",  National Geographic
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1196
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" group-title="Television" tvg-id="NAT GEO WILD HD",  Nat Geo Wild
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1195
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/odisea.png" group-title="Television" tvg-id="CANAL ODISEA",  Odisea
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1187
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" group-title="Television" tvg-id="DISCOVERY",  Discovery Channel
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1188
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cyp.png" group-title="Television" tvg-id="CAZAyPESCA HD",  Caza y Pesca
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1189
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/iberalia.png" group-title="Television" tvg-id="IBERALIA TV",  Iberalia TV
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1191
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dj.png" group-title="Television" tvg-id="DISNEY JR",  Disney Junior
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1199
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dc.png" group-title="Television" tvg-id="DISNEY CH HD",  Disney Channel
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1200
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="",  Disney XD
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1201
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/babytv.png" group-title="Television" tvg-id="BABY TV",  Baby TV
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1202
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nickjr.png" group-title="Television" tvg-id="NICK JR",  Nick Jr
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1203
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nick.png" group-title="Television" tvg-id="NICKELODEON HD",  Nickeloden
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1204
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/panda.png" group-title="Television" tvg-id="CANAL PANDA",  Canal Panda
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/269879
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", 
+
+
+
+
